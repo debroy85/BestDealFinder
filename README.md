@@ -30,4 +30,4 @@ Developed using Next.js and Bright Data's webunlocker, this e-commerce product s
 **Automated Cron Jobs**: Utilize cron jobs to automate periodic scraping, ensuring data is up-to-date.
 
 ## <a name="tech-stack">Live Hosted Link</a>
-best-deal-finder.vercel.app
+<a href = "https://best-deal-finder.vercel.app">best-deal-finder.vercel.app</a>
